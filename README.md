@@ -33,3 +33,11 @@ option4 varchar(255));
 ---Survey Answer table
 CREATE TABLE surveyquestions(surveycode varchar(5), qno int, opno int);
 ```
+
+
+## Preview
+
+![oh1](https://github.com/Amar985/OpinifyHub/assets/84828275/d56e06ea-6dd7-4d63-9f09-3c92798ee8d9)
+![oh2](https://github.com/Amar985/OpinifyHub/assets/84828275/0dd97c06-0c7a-4cf9-83cc-f922a287b06e)
+![oh3](https://github.com/Amar985/OpinifyHub/assets/84828275/0309b47b-9c76-4ab9-8fdf-9082adcdd086)
+![oh4](https://github.com/Amar985/OpinifyHub/assets/84828275/66bf08e2-fb3c-4aeb-9935-7801c6ace02f)
