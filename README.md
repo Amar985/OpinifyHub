@@ -16,7 +16,8 @@ To access the survey created you need to share survey code of 5 characters with 
 ### Use the database:
 `USE opinifyhub;`
 ### Create necessary tables:
-```--Actor table
+```
+--Actor table
 CREATE TABLE actors(id int primary key auto_increment, fname varchar(50),
  uname varchar(50), pass varchar(50));
 
@@ -29,5 +30,6 @@ option1 varchar(255), option2 varchar(255), option3 varchar(255),
 option4 varchar(255)); 
 
 --Survey Answer table
-CREATE TABLE surveyquestions(surveycode varchar(5), qno int, opno int);```
+CREATE TABLE surveyquestions(surveycode varchar(5), qno int, opno int);
+```
 
