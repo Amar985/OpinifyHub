@@ -11,7 +11,7 @@ public class SQLManage {
     public SQLManage() throws SQLException {
         String url = "jdbc:mysql://localhost:3306/opinifyhub";
         String usr = "root";
-        String pass = "amar123";
+        String pass = "Passwpod";
         con = DriverManager.getConnection(url, usr, pass);
     }
 
