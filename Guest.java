@@ -20,7 +20,7 @@ public class Guest {
 
         Font options = new Font("Times New Roman", Font.BOLD, 15);
 
-        JFrame frame = new JFrame();
+        JFrame frame = new JFrame("OpinifyHub");
         frame.setSize(800, 600);
         frame.setLayout(null);
         frame.setLocationRelativeTo(null);
